@@ -1,4 +1,4 @@
-# PDF RAG Chatbot
+# readPDF - PDF RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions about their content.
 
